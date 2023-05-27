@@ -264,6 +264,7 @@ th {
     .video,
     .video-contenido {
         width: auto;
+        text-align: center;
     }
     .lista-diferenciales,
     .imgdiferenciales,
